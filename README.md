@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ahanashah08
-- 👀 I’m interested in ...web developement, music and books!
-- 🌱 I’m currently learning ...the basics of coding with languages like java, python, html
+- 👀 I’m interested in ...all things cyber security, music and books!
 - 📫 How to reach me ...shahahana07@gmail.com
 
 <!---
